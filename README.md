@@ -1,0 +1,3 @@
+# lemp
+
+``docker-compose up``
