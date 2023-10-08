@@ -1,3 +1,8 @@
 # lemp
 
-``docker-compose up``
+Start containers:
+
+```
+cd docker
+docker-compose up
+``
